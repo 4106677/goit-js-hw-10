@@ -1,8 +1,6 @@
 // let name = '';
 import Notiflix from 'notiflix';
 
-let arr = [];
-
 /*
 export function fetchCountries(country) {
   return fetch(
